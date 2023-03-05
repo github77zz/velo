@@ -19,7 +19,7 @@
 
 # Define variables
 usebingwallpaper=false
-wallpaperurl="https://github.com/github77zz/velo/blob/main/Velo-4-all.jpg"
+wallpaperurl="https://raw.githubusercontent.com/github77zz/velo/main/Velo-4-all.jpg"
 wallpaperdir="/Library/Desktop"
 wallpaperfile="Wallpaper.jpg"
 log="/var/log/fetchdesktopwallpaper.log"
